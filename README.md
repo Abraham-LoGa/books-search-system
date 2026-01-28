@@ -1,2 +1,2 @@
-# Products Search Engine
-The following repository hosts a RESTFul API project designed with Python to enhance product search functionality in e-commerce applications. The main objective is to offer a fast, scalable, and easy-to-integrate backend solution that allows users to find products accurately and relevantly.
+# Books Search System
+This repository hosts a RESTful API built with Python to enhance the book search functionality for a bookstore application. The main objective is to provide a fast, scalable, and easy-to-integrate backend solution that delivers accurate and relevant search results.
